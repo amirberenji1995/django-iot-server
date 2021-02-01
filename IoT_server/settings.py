@@ -14,7 +14,7 @@ SECRET_KEY = '^avyclq)f#w-4ef6z48s84631)o*g+p564zr(t*x5&8m#ji$9k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', 'django-esp-iot-server.herokuapp.com/']
+ALLOWED_HOSTS = ['0.0.0.0', 'django-esp-iot-server.herokuapp.com']
 
 
 # Application definition
